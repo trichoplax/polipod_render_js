@@ -1,0 +1,19 @@
+{
+  "name": "@trichoplax/polipod_render_js",
+  "version": "0.0.0",
+  "description": "For use by the polipod demo of multiple languages on the front end https://github.com/trichoplax/polipod/blob/main/README.md",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trichoplax/polipod_render_js.git"
+  },
+  "author": "trichoplax <xalpohcirt@gmail.com> (https://github.com/trichoplax)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/trichoplax/polipod_render_js/issues"
+  },
+  "homepage": "https://github.com/trichoplax/polipod_render_js#readme"
+}
