@@ -1,5 +1,5 @@
-import {squareColour} from '@trichoplax/polipod_colours_js@0.0.0/index.js'
-import {squareAngle} from '@trichoplax/polipod_angles_js@0.0.0/index.js'
+import {squareColour} from '@trichoplax/polipod_colours_js/index.js'
+import {squareAngle} from '@trichoplax/polipod_angles_js/index.js'
 
 let red = 0
 let green = 0
