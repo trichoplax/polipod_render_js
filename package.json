@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/trichoplax/polipod_render_js/issues"
   },
-  "homepage": "https://github.com/trichoplax/polipod_render_js#readme"
+  "homepage": "https://github.com/trichoplax/polipod_render_js#readme",
+  "dependencies": {
+    "@trichoplax/polipod_angles_js": "^0.0.0",
+    "@trichoplax/polipod_colours_js": "^0.0.0"
+  }
 }
