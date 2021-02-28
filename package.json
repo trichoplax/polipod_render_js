@@ -1,6 +1,6 @@
 {
   "name": "@trichoplax/polipod_render_js",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "For use by the polipod demo of multiple languages on the front end https://github.com/trichoplax/polipod/blob/main/README.md",
   "main": "index.js",
   "scripts": {
