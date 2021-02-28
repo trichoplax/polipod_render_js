@@ -6,7 +6,7 @@ let green = 0
 let blue = 0
 let angle = 0
 
-export const renderLoop = () => {
+export const renderLoop = (changeColourActive, changeAngleActive) => {
     if (changeColourActive) {
         [red, green, blue] = squareColour([red, green, blue])
     }
